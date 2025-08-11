@@ -1,0 +1,9 @@
+# Ignore all data folders
+Data/
+astronomaly/
+Old Scripts/
+Papers/
+Trial*
+
+# Track specific files
+!masters_code_kirsten.ipynb
