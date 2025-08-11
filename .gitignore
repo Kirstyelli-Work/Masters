@@ -1,9 +1,12 @@
 # Ignore all data folders
-Data/
+.vscode/
 astronomaly/
+Data/
+my_proj_env/
 Old Scripts/
 Papers/
 Trial*
+astronomaly.log
 
 # Track specific files
 !masters_code_kirsten.ipynb
