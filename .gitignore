@@ -1,13 +1,21 @@
 # Ignore all data folders
 .vscode/
 astronomaly/
-Data/
 my_proj_env/
 Old Scripts/
 Papers/
 Trial*
 astronomaly.log
+Data/DeCaLs/
+Data/GalaxyZooSubset
+Data/Output
+Data/cluster_with_prob.parquet
+Data/features.parquet
+Data/GalaxyZoo_Main_Features.csv
+Data/metadata/npy
+Data/spectra.npy
+Data/subset.csv
 
 # Track specific files
 !masters_code_kirsten.ipynb
-!test_subset.parquet
+!Data/test_subset.parquet
