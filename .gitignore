@@ -1,21 +1,26 @@
 # Ignore all data folders
 .vscode/
 astronomaly/
+astronomaly.log
+Data/DeCaLs/
+Data/Galaxy_Images/
+Data/GalaxyZooSubset/
+Data/features.parquet
+Data/GalaxyZoo_Main_Features.csv
+Data/metadata.npy
+Data/pca_components.parquet
+Data/PCA_Decomposer_output.parquet
+Data/pca_features.parquet
+Data/spectra.npy
+Data/subset.csv
 my_proj_env/
 Old Scripts/
 Papers/
 Trial*
-astronomaly.log
-Data/DeCaLs/
-Data/GalaxyZooSubset
-Data/Output
-Data/cluster_with_prob.parquet
-Data/features.parquet
-Data/GalaxyZoo_Main_Features.csv
-Data/metadata/npy
-Data/spectra.npy
-Data/subset.csv
 
 # Track specific files
 !masters_code_kirsten.ipynb
-!Data/test_subset.parquet
+!BGMM_Cluster_Assignment.ipynb
+!MiniBatchKMeans_Cluster_Assignment.ipynb
+!Data/BGMM_test_subset.parquet
+!Data/MiniBatchKMeans_test_subset.parquet
