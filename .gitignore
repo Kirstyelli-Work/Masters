@@ -10,3 +10,4 @@ astronomaly.log
 
 # Track specific files
 !masters_code_kirsten.ipynb
+!test_subset.parquet
