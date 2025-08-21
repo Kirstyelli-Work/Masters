@@ -28,6 +28,7 @@ Trial*
 !MiniBatchKMeans_Cluster_Assignment.ipynb
 !Test_Subset.ipynb
 !Uncertainty_Analysis.ipynb
+!Data/test_subset_colnames.txt
 !Data/BGMM_test_subset.parquet
 !Data/MiniBatchKMeans_test_subset.parquet
 !MiniBatchKMeans.png
