@@ -4,6 +4,8 @@ astronomaly/
 Data/DeCaLs/
 Data/Galaxy_Images/
 Data/GalaxyZooSubset/
+Data/BGMM_clusters.parquet
+Data/BGMM_clusters_with_prob.parquet
 Data/features.parquet
 Data/GalaxyZoo_Main_Features.csv
 Data/metadata.npy
@@ -24,8 +26,5 @@ Trial*
 !BGMM_Cluster_Assignment.ipynb
 !MiniBatchKMeans_Cluster_Assignment.ipynb
 !Test_Subset.ipynb
-!Data/BGMM_clusters.parquet
-!Data/BGMM_clusters_with_prob.parquet
 !Data/BGMM_test_subset.parquet
-
 !Data/MiniBatchKMeans_test_subset.parquet
