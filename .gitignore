@@ -1,7 +1,6 @@
 # Ignore all data folders
 .vscode/
 astronomaly/
-astronomaly.log
 Data/DeCaLs/
 Data/Galaxy_Images/
 Data/GalaxyZooSubset/
@@ -16,11 +15,16 @@ Data/subset.csv
 my_proj_env/
 Old Scripts/
 Papers/
+astronomaly.log
 Trial*
 
 # Track specific files
-!masters_code_kirsten.ipynb
 !BGMM_Cluster_Assignment.ipynb
 !MiniBatchKMeans_Cluster_Assignment.ipynb
+!Test_Subset.ipynb
+!Data/BGMM_clusters.parquet
+!Data/BGMM_clusters_with_prob.parquet
 !Data/BGMM_test_subset.parquet
+!Data/MiniBatchKMeans_clusters.parquet
+!Data/MiniBatchKMeans_clusters_with_prob.parquet
 !Data/MiniBatchKMeans_test_subset.parquet
