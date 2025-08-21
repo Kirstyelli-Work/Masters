@@ -7,6 +7,7 @@ Data/GalaxyZooSubset/
 Data/features.parquet
 Data/GalaxyZoo_Main_Features.csv
 Data/metadata.npy
+Data/MiniBatchKMeans_clusters.parquet
 Data/pca_components.parquet
 Data/PCA_Decomposer_output.parquet
 Data/pca_features.parquet
@@ -25,6 +26,5 @@ Trial*
 !Data/BGMM_clusters.parquet
 !Data/BGMM_clusters_with_prob.parquet
 !Data/BGMM_test_subset.parquet
-!Data/MiniBatchKMeans_clusters.parquet
 !Data/MiniBatchKMeans_clusters_with_prob.parquet
 !Data/MiniBatchKMeans_test_subset.parquet
