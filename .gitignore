@@ -1,6 +1,7 @@
 # Ignore all data folders
 .vscode/
 astronomaly/
+Data/Analysis_plots/
 Data/DeCaLs/
 Data/Galaxy_Images/
 Data/GalaxyZooSubset/
