@@ -12,6 +12,8 @@ Data/GalaxyZoo_Main_Features.csv
 Data/metadata.npy
 Data/MiniBatchKMeans_clusters.parquet
 Data/MiniBatchKMeans_clusters_with_prob.parquet
+Data/MiniBatchKMeans_test_subset1.parquet
+Data/MiniBatchKMeans_test_subset2.parquet
 Data/pca_components.parquet
 Data/PCA_Decomposer_output.parquet
 Data/pca_features.parquet
