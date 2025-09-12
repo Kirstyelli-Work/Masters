@@ -5,10 +5,12 @@ Data/Analysis_Plots/
 Data/DeCaLs/
 Data/Galaxy_Images/
 Data/GalaxyZooSubset/
+Data/assigned_volunteer_labels.parquet
 Data/BGMM_clusters.parquet
 Data/BGMM_clusters_with_prob.parquet
 Data/features.parquet
 Data/GalaxyZoo_Main_Features.csv
+Data/GalaxyZoo_Main_Features.parquet
 Data/metadata.npy
 Data/MiniBatchKMeans_clusters.parquet
 Data/MiniBatchKMeans_clusters_with_prob.parquet
