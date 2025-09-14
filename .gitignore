@@ -12,6 +12,7 @@ Data/features.parquet
 Data/GalaxyZoo_Main_Features.csv
 Data/GalaxyZoo_Main_Features.parquet
 Data/metadata.npy
+Data/MiniBatchKMeans_clusters_distances.parquet
 Data/MiniBatchKMeans_clusters.parquet
 Data/MiniBatchKMeans_clusters_with_prob.parquet
 Data/MiniBatchKMeans_test_subset1.parquet
